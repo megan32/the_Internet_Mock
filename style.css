@@ -17,13 +17,9 @@ h1{
 
 
 /*special text*/
- .blueText{
+.blueText{
   color:#54B7C6;
 }
-
-
-
-
 span.italicText{
   font-style: italic;
 }
@@ -185,9 +181,10 @@ span.redText{
 }
 #rightInfo{
   display: inline-block;
-  width: 250px;
+  width: 300px;
   height: 100px;
   margin-left: 480px;
+  border: 1px solid pink;
 }
 
 #phone{
@@ -292,3 +289,4 @@ span.redText{
   vertical-align: top;
   margin-left: 118px;
 }
+
